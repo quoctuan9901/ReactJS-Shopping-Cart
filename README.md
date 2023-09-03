@@ -7,4 +7,8 @@
 - react-router-dom
 - sass
 
+## Chạy source bằng 2 lệnh
+- yarn
+- yarn dev
+
 
