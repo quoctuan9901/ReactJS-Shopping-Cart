@@ -1,7 +1,7 @@
-import "./Category.scss";
+import "./CategoryProduct.scss";
 import Products from "../Products/Products";
 
-export default function Category () {
+export default function CategoryProduct () {
     return (
         <div className="category-main-content">
             <div className="layout">
