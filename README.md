@@ -11,4 +11,7 @@
 - yarn
 - yarn dev
 
-
+## Document Strapi REST API
+```angular2html
+https://docs.strapi.io/dev-docs/api/rest/
+```
